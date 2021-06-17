@@ -20,4 +20,3 @@
 `Change Nickname To Ep_3Dtext Remove Main`
 `Change Nickname To Ep_3Dtext Remove Main`
 `Change Nickname To Ep_3Dtext Remove Main`
-https://cdn.discordapp.com/attachments/854987603677675521/855000317989093386/1.PNG
