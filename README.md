@@ -5,7 +5,7 @@
 **Our discord with more scripts: `https://discord.gg/WmVENwDcYS`
 
 **Installation**
-1) --> Put into Ep_Discord folder into your resource folder
+1) --> Put into Ep_3Dtext folder into your resource folder
 2) --> Add in your server.cfg
 
 **Configurations**
